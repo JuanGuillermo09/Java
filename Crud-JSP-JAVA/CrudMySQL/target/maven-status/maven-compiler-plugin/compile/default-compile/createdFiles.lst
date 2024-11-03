@@ -1,0 +1,6 @@
+com\mycompany\crudmysql\UsuarioDAO.class
+com\mycompany\crudmysql\ServletUsuario.class
+com\mycompany\crudmysql\EntidadUsuario.class
+com\mycompany\crudmysql\ConexionDAO.class
+com\mycompany\crudmysql\JakartaRestConfiguration.class
+com\mycompany\crudmysql\resources\JakartaEE8Resource.class
